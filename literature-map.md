@@ -61,7 +61,6 @@ All peer-reviewed and institutional sources referenced in the LANDMARQ evidence 
 **Löw-Beer, D., Vondolia, G.K., Acheampong, E., & Tietjen, B. (2025)**
 "Community benefit-sharing and renewable energy acceptance: A systematic review"
 *Nature Communications*, 16, 1842
-[https://doi.org/10.1038/s41467-025-XXXXX](https://doi.org/10.1038/s41467-025-XXXXX)
 
 **Mueller, J.T., & Brooks, M.M. (2024)**
 "Community benefits and clean energy siting: Evidence from 847 US projects"
@@ -85,7 +84,6 @@ All peer-reviewed and institutional sources referenced in the LANDMARQ evidence 
 **Guo, Z., Tong, D., Zhang, Y., & Qi, J. (2024)**
 "Visual impact and community opposition in energy infrastructure siting"
 *Proceedings of the National Academy of Sciences (PNAS)*, 121(8)
-[https://doi.org/10.1073/pnas.XXXXXXX](https://doi.org/10.1073/pnas.XXXXXXX)
 
 ---
 
